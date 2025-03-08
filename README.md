@@ -12,10 +12,10 @@
 ![Cuplikan layar 2025-03-08 155753](https://github.com/user-attachments/assets/1baed19c-0e63-4fdb-be15-1c7234836651)
 
 **Browser – login dengan user**
-![Cuplikan layar 2025-03-08 155839](https://github.com/user-attachments/assets/ff3a578a-382f-44d5-a914-79a637b6213a)
+![Cuplikan layar 2025-03-08 161633](https://github.com/user-attachments/assets/d93dffe4-85a3-4e01-871b-dc9679636dd0)
 
 **Browser – login dengan Admin**
-![Cuplikan layar 2025-03-08 155958](https://github.com/user-attachments/assets/6c1c0e0c-9ac3-4c4d-8816-8bddb8fafa2a)
+![Cuplikan layar 2025-03-08 161653](https://github.com/user-attachments/assets/c4ed4b2a-1c45-4889-aab2-7f5dfc757e67)
 
 phpMyAdmin – db nim-todo tabel user dan admin
 ![Cuplikan layar 2025-03-08 160133](https://github.com/user-attachments/assets/fa224d97-044f-4179-bdf0-82a562b747ba)
