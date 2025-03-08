@@ -1,7 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-Screenshoot
-
 **Terminal – command instalasi breeze**
 ![Cuplikan layar 2025-03-08 154128](https://github.com/user-attachments/assets/bbdb1b8d-644c-4e62-a7df-2b34d3015b57)
 ![Cuplikan layar 2025-03-08 154433](https://github.com/user-attachments/assets/bb2cbdb7-3887-4b90-94ca-e3bcb8270299)
